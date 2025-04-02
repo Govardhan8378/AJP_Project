@@ -66,7 +66,7 @@ Programming Language: Java (JDBC)
 
 Database: MySQL
 
-IDE: Eclipse / IntelliJ / VS Code
+IDE: Eclipse / VS Code
 
 Version Control: Git
 
@@ -76,7 +76,7 @@ Version Control: Git
 sh
 Copy
 Edit
-git clone https://github.com/your-username/bus-ticket-booking-system.git
+git clone https://github.com/govardhan8378/bus-ticket-booking-system.git
 cd bus-ticket-booking-system
 2️⃣ Set Up MySQL Database
 
